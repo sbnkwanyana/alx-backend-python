@@ -7,7 +7,7 @@ from typing import Callable
 
 def make_multiplier(multiplier: float) -> Callable[[float], float]:
     """
-    make_multiplier() -> Callable: type-annotated function takes float (multiplier)
-    and returns a  callable function that multiplies the multiplier with a float.
+    make_multiplier() -> Callable: function takes float(multiplier)
+    and returns a function that multiplies the multiplier with a float.
     """
     return lambda x: x * multiplier
