@@ -13,3 +13,5 @@
 ### 4. Define variables
 
 ### 5. Complex types - list of floats
+
+### 6. Complex types - mixed list
