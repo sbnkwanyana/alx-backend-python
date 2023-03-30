@@ -6,7 +6,7 @@ and returns the sum of all elements as a float
 from typing import List, Union
 
 
-def sum_mixed_list(mxd_lst: List[Union[float, int]]) -> float:
+def sum_mixed_list(mxd_lst: List[Union[int, float]]) -> float:
     """
     sum_mixed_list() -> float: type-annotated function takes union List (mxd_lst)
     and returns the sum of all elements.
