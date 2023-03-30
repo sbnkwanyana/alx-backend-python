@@ -19,3 +19,5 @@
 ### 7. Complex types - string and int/float to tuple
 
 ### 8. Complex types - functions
+
+### 9. Let's duck type an iterable object
