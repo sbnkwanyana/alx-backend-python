@@ -8,7 +8,7 @@ from typing import List
 
 def sum_list(input_list: List[float]) -> float:
     """
-    floor() -> float: type-annotated function takes float List (input_list)
+    sum_list() -> float: type-annotated function takes float List (input_list)
     and returns the sum of all elements.
     """
     return float(sum(input_list))
