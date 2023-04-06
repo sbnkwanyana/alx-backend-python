@@ -6,7 +6,7 @@ import asyncio
 import random
 
 
-async def async_generator():
+async def async_generator() -> float:
     """
     function yield returns 10 random values after sleeping for 1 second
     between each return
